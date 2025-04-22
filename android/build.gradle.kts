@@ -1,4 +1,13 @@
-allprojects {
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
         google()
         mavenCentral()
@@ -19,7 +28,6 @@ subprojects {
 tasks.register<Delete>("clean") {
     delete(rootProject.layout.buildDirectory)
 }
-
 buildscript {
     repositories {
         google()
@@ -30,3 +38,6 @@ buildscript {
         classpath 'com.google.gms:google-services:4.3.15'
     }
 }
+
+rootProject.name = "skillnet_app"
+include(":app")

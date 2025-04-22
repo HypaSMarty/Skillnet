@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26802090262",
+    "project_id": "skillnet-services",
+    "storage_bucket": "skillnet-services.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26802090262:android:414f4a2b8784979519a037",
+        "android_client_info": {
+          "package_name": "SKILLNET_SERVICES.COM"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9uk2BVkpJqQYOK-Pr_QDup_zH2_nWtfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
