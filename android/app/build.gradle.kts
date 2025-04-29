@@ -53,7 +53,6 @@ android {
 flutter {
     source = "../.."
 }
-apply plugin: 'com.google.gms.google-services' // Add this line
 
 dependencies {
     implementation("com.google.firebase:firebase-auth:22.0.0")
@@ -61,3 +60,4 @@ dependencies {
     implementation("androidx.multidex:multidex:2.0.1")
     implementation("androidx.core:core-ktx:1.10.1")
     implementation("androidx.appcompat:appcompat:1.6.1")
+}
