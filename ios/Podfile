@@ -1,0 +1,10 @@
+platform :ios, '12.0' # Specify the platform and minimum version
+
+target 'Runner' do
+  use_frameworks! # Enables dynamic frameworks
+  use_modular_headers! # Enables modular headers for better compatibility
+
+  # Add the Flutterfire dependencies
+  pod 'Firebase/Core'
+  pod 'Firebase/Auth'
+end
